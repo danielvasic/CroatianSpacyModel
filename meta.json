@@ -64,8 +64,8 @@
     "keys":451637,
     "name":"hr_model.vectors"
   },
-  "name":"hr",
-  "version":"1.0.0",
+  "name":"model0",
+  "version":"0.0.0",
   "labels":{
     "tagger":[
       "-X-",
