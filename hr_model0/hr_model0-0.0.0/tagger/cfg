@@ -1,7 +1,0 @@
-{
-  "cnn_maxout_pieces":2,
-  "deprecation_fixes":{
-    "vectors_name":"hr_model.vectors"
-  },
-  "pretrained_vectors":"hr_model.vectors"
-}
